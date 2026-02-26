@@ -1,0 +1,2009 @@
+{
+  "asof_date": "2026-02-26",
+  "positions": {
+    "A": {
+      "active": true,
+      "hold_days": 1
+    },
+    "AAPL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ABBV": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ABNB": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ABT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ACGL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ACN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ADBE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ADI": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ADM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ADP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ADSK": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AEE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AEP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AES": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AFL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AIG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AIZ": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AJG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AKAM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ALB": {
+      "active": true,
+      "hold_days": 1
+    },
+    "ALGN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ALL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ALLE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AMAT": {
+      "active": true,
+      "hold_days": 1
+    },
+    "AMCR": {
+      "active": true,
+      "hold_days": 2
+    },
+    "AMD": {
+      "active": true,
+      "hold_days": 1
+    },
+    "AME": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AMGN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AMP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AMT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AMZN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ANET": {
+      "active": true,
+      "hold_days": 1
+    },
+    "AON": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AOS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "APA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "APD": {
+      "active": false,
+      "hold_days": 0
+    },
+    "APH": {
+      "active": true,
+      "hold_days": 1
+    },
+    "APO": {
+      "active": false,
+      "hold_days": 0
+    },
+    "APP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "APTV": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ARE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ARES": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ATO": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AVB": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AVGO": {
+      "active": true,
+      "hold_days": 1
+    },
+    "AVY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AWK": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AXON": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AXP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "AZO": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BAC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BALL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BAX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BBY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BDX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BEN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BIIB": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BK": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BKNG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BKR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BLDR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BLK": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BMY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BRO": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BSX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "BXP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "C": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CAG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CAH": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CARR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CAT": {
+      "active": true,
+      "hold_days": 1
+    },
+    "CB": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CBOE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CBRE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CCI": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CCL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CDNS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CDW": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CEG": {
+      "active": true,
+      "hold_days": 1
+    },
+    "CF": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CFG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CHD": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CHRW": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CHTR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CI": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CIEN": {
+      "active": true,
+      "hold_days": 1
+    },
+    "CINF": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CLX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CMCSA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CME": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CMG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CMI": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CMS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CNC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CNP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "COF": {
+      "active": false,
+      "hold_days": 0
+    },
+    "COIN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "COO": {
+      "active": false,
+      "hold_days": 0
+    },
+    "COP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "COR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "COST": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CPAY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CPB": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CPRT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CPT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CRH": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CRL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CRM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CRWD": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CSCO": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CSGP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CSX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CTAS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CTRA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CTSH": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CTVA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CVNA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CVS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CVX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "D": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DAL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DASH": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DD": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DDOG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DECK": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DELL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DGX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DHI": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DHR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DIS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DLR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DLTR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DOC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DOV": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DOW": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DPZ": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DRI": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DTE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DUK": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DVA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DVN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "DXCM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EBAY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ECL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ED": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EFX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EIX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ELV": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EME": {
+      "active": true,
+      "hold_days": 1
+    },
+    "EMR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EOG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EPAM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EQIX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EQR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EQT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ERIE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ES": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ESS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ETN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ETR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EVRG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EW": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EXC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EXE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EXPD": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EXPE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "EXR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "F": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FANG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FAST": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FCX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FDS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FDX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FFIV": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FICO": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FIS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FISV": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FITB": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FIX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FOX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FOXA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FRT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FSLR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FTNT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FTV": {
+      "active": false,
+      "hold_days": 0
+    },
+    "GD": {
+      "active": false,
+      "hold_days": 0
+    },
+    "GDDY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "GE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "GEHC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "GEN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "GEV": {
+      "active": true,
+      "hold_days": 1
+    },
+    "GILD": {
+      "active": false,
+      "hold_days": 0
+    },
+    "GIS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "GL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "GLW": {
+      "active": true,
+      "hold_days": 1
+    },
+    "GM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "GNRC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "GOOG": {
+      "active": true,
+      "hold_days": 1
+    },
+    "GOOGL": {
+      "active": true,
+      "hold_days": 1
+    },
+    "GPC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "GPN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "GRMN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "GS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "GWW": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HAL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HAS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HBAN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HCA": {
+      "active": true,
+      "hold_days": 1
+    },
+    "HD": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HIG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HII": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HLT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HOLX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HON": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HOOD": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HPE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HPQ": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HRL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HSIC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HST": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HSY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HUBB": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HUM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "HWM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "IBKR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "IBM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ICE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "IDXX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "IEX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "IFF": {
+      "active": false,
+      "hold_days": 0
+    },
+    "INCY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "INTC": {
+      "active": true,
+      "hold_days": 1
+    },
+    "INTU": {
+      "active": false,
+      "hold_days": 0
+    },
+    "INVH": {
+      "active": false,
+      "hold_days": 0
+    },
+    "IP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "IQV": {
+      "active": false,
+      "hold_days": 0
+    },
+    "IR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "IRM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ISRG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "IT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ITW": {
+      "active": false,
+      "hold_days": 0
+    },
+    "IVZ": {
+      "active": false,
+      "hold_days": 0
+    },
+    "J": {
+      "active": false,
+      "hold_days": 0
+    },
+    "JBHT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "JBL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "JCI": {
+      "active": false,
+      "hold_days": 0
+    },
+    "JKHY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "JNJ": {
+      "active": false,
+      "hold_days": 0
+    },
+    "JPM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "KDP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "KEY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "KEYS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "KHC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "KIM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "KKR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "KLAC": {
+      "active": true,
+      "hold_days": 1
+    },
+    "KMB": {
+      "active": false,
+      "hold_days": 0
+    },
+    "KMI": {
+      "active": false,
+      "hold_days": 0
+    },
+    "KO": {
+      "active": false,
+      "hold_days": 0
+    },
+    "KR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "KVUE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "L": {
+      "active": false,
+      "hold_days": 0
+    },
+    "LDOS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "LEN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "LH": {
+      "active": false,
+      "hold_days": 0
+    },
+    "LHX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "LII": {
+      "active": false,
+      "hold_days": 0
+    },
+    "LIN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "LLY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "LMT": {
+      "active": true,
+      "hold_days": 2
+    },
+    "LNT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "LOW": {
+      "active": false,
+      "hold_days": 0
+    },
+    "LRCX": {
+      "active": true,
+      "hold_days": 1
+    },
+    "LULU": {
+      "active": false,
+      "hold_days": 0
+    },
+    "LUV": {
+      "active": false,
+      "hold_days": 0
+    },
+    "LVS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "LW": {
+      "active": false,
+      "hold_days": 0
+    },
+    "LYB": {
+      "active": true,
+      "hold_days": 1
+    },
+    "LYV": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MAA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MAR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MAS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MCD": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MCHP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MCK": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MCO": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MDLZ": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MDT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MET": {
+      "active": false,
+      "hold_days": 0
+    },
+    "META": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MGM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MKC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MLM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MMM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MNST": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MO": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MOH": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MOS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MPC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MPWR": {
+      "active": true,
+      "hold_days": 1
+    },
+    "MRK": {
+      "active": true,
+      "hold_days": 1
+    },
+    "MRNA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MRSH": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MSCI": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MSFT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MSI": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MTB": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MTCH": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MTD": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MU": {
+      "active": true,
+      "hold_days": 1
+    },
+    "NCLH": {
+      "active": false,
+      "hold_days": 0
+    },
+    "NDAQ": {
+      "active": false,
+      "hold_days": 0
+    },
+    "NDSN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "NEE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "NEM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "NFLX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "NI": {
+      "active": false,
+      "hold_days": 0
+    },
+    "NKE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "NOC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "NOW": {
+      "active": false,
+      "hold_days": 0
+    },
+    "NRG": {
+      "active": true,
+      "hold_days": 1
+    },
+    "NSC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "NTAP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "NTRS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "NUE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "NVDA": {
+      "active": true,
+      "hold_days": 1
+    },
+    "NVR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "NWS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "NWSA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "NXPI": {
+      "active": false,
+      "hold_days": 0
+    },
+    "O": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ODFL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "OKE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "OMC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ON": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ORCL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ORLY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "OTIS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "OXY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PANW": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PAYC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PAYX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PCAR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PCG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PEG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PEP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PFE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PFG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PGR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PH": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PHM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PKG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PLD": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PLTR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PNC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PNR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PNW": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PODD": {
+      "active": false,
+      "hold_days": 0
+    },
+    "POOL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PPG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PPL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PRU": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PSA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PSKY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PSX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PTC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PWR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PYPL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "Q": {
+      "active": false,
+      "hold_days": 0
+    },
+    "QCOM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "RCL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "REG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "REGN": {
+      "active": true,
+      "hold_days": 1
+    },
+    "RF": {
+      "active": false,
+      "hold_days": 0
+    },
+    "RJF": {
+      "active": false,
+      "hold_days": 0
+    },
+    "RL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "RMD": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ROK": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ROL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ROP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ROST": {
+      "active": false,
+      "hold_days": 0
+    },
+    "RSG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "RTX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "RVTY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "SBAC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "SBUX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "SCHW": {
+      "active": false,
+      "hold_days": 0
+    },
+    "SHW": {
+      "active": false,
+      "hold_days": 0
+    },
+    "SJM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "SLB": {
+      "active": false,
+      "hold_days": 0
+    },
+    "SMCI": {
+      "active": true,
+      "hold_days": 1
+    },
+    "SNA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "SNDK": {
+      "active": true,
+      "hold_days": 1
+    },
+    "SNPS": {
+      "active": true,
+      "hold_days": 1
+    },
+    "SO": {
+      "active": false,
+      "hold_days": 0
+    },
+    "SOLV": {
+      "active": false,
+      "hold_days": 0
+    },
+    "SPG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "SPGI": {
+      "active": false,
+      "hold_days": 0
+    },
+    "SRE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "STE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "STLD": {
+      "active": false,
+      "hold_days": 0
+    },
+    "STT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "STX": {
+      "active": true,
+      "hold_days": 1
+    },
+    "STZ": {
+      "active": false,
+      "hold_days": 0
+    },
+    "SW": {
+      "active": false,
+      "hold_days": 0
+    },
+    "SWK": {
+      "active": false,
+      "hold_days": 0
+    },
+    "SWKS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "SYF": {
+      "active": false,
+      "hold_days": 0
+    },
+    "SYK": {
+      "active": false,
+      "hold_days": 0
+    },
+    "SYY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "T": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TAP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TDG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TDY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TECH": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TEL": {
+      "active": true,
+      "hold_days": 1
+    },
+    "TER": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TFC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TGT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TJX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TKO": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TMO": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TMUS": {
+      "active": true,
+      "hold_days": 1
+    },
+    "TPL": {
+      "active": true,
+      "hold_days": 2
+    },
+    "TPR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TRGP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TRMB": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TROW": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TRV": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TSCO": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TSLA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TSN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TTD": {
+      "active": true,
+      "hold_days": 1
+    },
+    "TTWO": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TXN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TXT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TYL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "UAL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "UBER": {
+      "active": false,
+      "hold_days": 0
+    },
+    "UDR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "UHS": {
+      "active": true,
+      "hold_days": 1
+    },
+    "ULTA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "UNH": {
+      "active": false,
+      "hold_days": 0
+    },
+    "UNP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "UPS": {
+      "active": false,
+      "hold_days": 0
+    },
+    "URI": {
+      "active": false,
+      "hold_days": 0
+    },
+    "USB": {
+      "active": false,
+      "hold_days": 0
+    },
+    "V": {
+      "active": false,
+      "hold_days": 0
+    },
+    "VICI": {
+      "active": false,
+      "hold_days": 0
+    },
+    "VLO": {
+      "active": false,
+      "hold_days": 0
+    },
+    "VLTO": {
+      "active": false,
+      "hold_days": 0
+    },
+    "VMC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "VRSK": {
+      "active": false,
+      "hold_days": 0
+    },
+    "VRSN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "VRTX": {
+      "active": false,
+      "hold_days": 0
+    },
+    "VST": {
+      "active": true,
+      "hold_days": 1
+    },
+    "VTR": {
+      "active": false,
+      "hold_days": 0
+    },
+    "VTRS": {
+      "active": true,
+      "hold_days": 1
+    },
+    "VZ": {
+      "active": false,
+      "hold_days": 0
+    },
+    "WAB": {
+      "active": false,
+      "hold_days": 0
+    },
+    "WAT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "WBD": {
+      "active": false,
+      "hold_days": 0
+    },
+    "WDAY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "WDC": {
+      "active": true,
+      "hold_days": 1
+    },
+    "WEC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "WELL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "WFC": {
+      "active": false,
+      "hold_days": 0
+    },
+    "WM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "WMB": {
+      "active": false,
+      "hold_days": 0
+    },
+    "WMT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "WRB": {
+      "active": false,
+      "hold_days": 0
+    },
+    "WSM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "WST": {
+      "active": false,
+      "hold_days": 0
+    },
+    "WTW": {
+      "active": false,
+      "hold_days": 0
+    },
+    "WY": {
+      "active": false,
+      "hold_days": 0
+    },
+    "WYNN": {
+      "active": false,
+      "hold_days": 0
+    },
+    "XEL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "XOM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "XYL": {
+      "active": false,
+      "hold_days": 0
+    },
+    "XYZ": {
+      "active": false,
+      "hold_days": 0
+    },
+    "YUM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ZBH": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ZBRA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ZTS": {
+      "active": false,
+      "hold_days": 0
+    }
+  }
+}
