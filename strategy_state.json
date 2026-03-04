@@ -1,9 +1,9 @@
 {
-  "asof_date": "2026-02-26",
+  "asof_date": "2026-03-04",
   "positions": {
     "A": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "AAPL": {
       "active": false,
@@ -83,7 +83,7 @@
     },
     "ALB": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "ALGN": {
       "active": false,
@@ -97,17 +97,21 @@
       "active": false,
       "hold_days": 0
     },
+    "ALNY": {
+      "active": false,
+      "hold_days": 0
+    },
     "AMAT": {
-      "active": true,
-      "hold_days": 1
+      "active": false,
+      "hold_days": 0
     },
     "AMCR": {
       "active": true,
-      "hold_days": 2
+      "hold_days": 3
     },
     "AMD": {
-      "active": true,
-      "hold_days": 1
+      "active": false,
+      "hold_days": 0
     },
     "AME": {
       "active": false,
@@ -131,7 +135,7 @@
     },
     "ANET": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "AON": {
       "active": false,
@@ -151,7 +155,7 @@
     },
     "APH": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "APO": {
       "active": false,
@@ -173,6 +177,14 @@
       "active": false,
       "hold_days": 0
     },
+    "ARM": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ASML": {
+      "active": false,
+      "hold_days": 0
+    },
     "ATO": {
       "active": false,
       "hold_days": 0
@@ -182,8 +194,8 @@
       "hold_days": 0
     },
     "AVGO": {
-      "active": true,
-      "hold_days": 1
+      "active": false,
+      "hold_days": 0
     },
     "AVY": {
       "active": false,
@@ -303,7 +315,7 @@
     },
     "CAT": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "CB": {
       "active": false,
@@ -314,6 +326,10 @@
       "hold_days": 0
     },
     "CBRE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "CCEP": {
       "active": false,
       "hold_days": 0
     },
@@ -334,8 +350,8 @@
       "hold_days": 0
     },
     "CEG": {
-      "active": true,
-      "hold_days": 1
+      "active": false,
+      "hold_days": 0
     },
     "CF": {
       "active": false,
@@ -363,7 +379,7 @@
     },
     "CIEN": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "CINF": {
       "active": false,
@@ -598,8 +614,8 @@
       "hold_days": 0
     },
     "DXCM": {
-      "active": false,
-      "hold_days": 0
+      "active": true,
+      "hold_days": 1
     },
     "EA": {
       "active": false,
@@ -639,7 +655,7 @@
     },
     "EME": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "EMR": {
       "active": false,
@@ -718,8 +734,8 @@
       "hold_days": 0
     },
     "FANG": {
-      "active": false,
-      "hold_days": 0
+      "active": true,
+      "hold_days": 1
     },
     "FAST": {
       "active": false,
@@ -738,6 +754,10 @@
       "hold_days": 0
     },
     "FE": {
+      "active": false,
+      "hold_days": 0
+    },
+    "FER": {
       "active": false,
       "hold_days": 0
     },
@@ -811,7 +831,7 @@
     },
     "GEV": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "GILD": {
       "active": false,
@@ -827,7 +847,7 @@
     },
     "GLW": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "GM": {
       "active": false,
@@ -839,11 +859,11 @@
     },
     "GOOG": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "GOOGL": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "GPC": {
       "active": false,
@@ -879,7 +899,7 @@
     },
     "HCA": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "HD": {
       "active": false,
@@ -973,9 +993,13 @@
       "active": false,
       "hold_days": 0
     },
+    "INSM": {
+      "active": false,
+      "hold_days": 0
+    },
     "INTC": {
-      "active": true,
-      "hold_days": 1
+      "active": false,
+      "hold_days": 0
     },
     "INTU": {
       "active": false,
@@ -1070,8 +1094,8 @@
       "hold_days": 0
     },
     "KLAC": {
-      "active": true,
-      "hold_days": 1
+      "active": false,
+      "hold_days": 0
     },
     "KMB": {
       "active": false,
@@ -1127,7 +1151,7 @@
     },
     "LMT": {
       "active": true,
-      "hold_days": 2
+      "hold_days": 3
     },
     "LNT": {
       "active": false,
@@ -1138,8 +1162,8 @@
       "hold_days": 0
     },
     "LRCX": {
-      "active": true,
-      "hold_days": 1
+      "active": false,
+      "hold_days": 0
     },
     "LULU": {
       "active": false,
@@ -1159,7 +1183,7 @@
     },
     "LYB": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "LYV": {
       "active": false,
@@ -1202,6 +1226,10 @@
       "hold_days": 0
     },
     "MDT": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MELI": {
       "active": false,
       "hold_days": 0
     },
@@ -1250,18 +1278,22 @@
       "hold_days": 0
     },
     "MPWR": {
-      "active": true,
-      "hold_days": 1
+      "active": false,
+      "hold_days": 0
     },
     "MRK": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "MRNA": {
       "active": false,
       "hold_days": 0
     },
     "MRSH": {
+      "active": false,
+      "hold_days": 0
+    },
+    "MRVL": {
       "active": false,
       "hold_days": 0
     },
@@ -1281,6 +1313,10 @@
       "active": false,
       "hold_days": 0
     },
+    "MSTR": {
+      "active": false,
+      "hold_days": 0
+    },
     "MTB": {
       "active": false,
       "hold_days": 0
@@ -1294,8 +1330,8 @@
       "hold_days": 0
     },
     "MU": {
-      "active": true,
-      "hold_days": 1
+      "active": false,
+      "hold_days": 0
     },
     "NCLH": {
       "active": false,
@@ -1339,7 +1375,7 @@
     },
     "NRG": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "NSC": {
       "active": false,
@@ -1358,8 +1394,8 @@
       "hold_days": 0
     },
     "NVDA": {
-      "active": true,
-      "hold_days": 1
+      "active": false,
+      "hold_days": 0
     },
     "NVR": {
       "active": false,
@@ -1430,6 +1466,10 @@
       "hold_days": 0
     },
     "PCG": {
+      "active": false,
+      "hold_days": 0
+    },
+    "PDD": {
       "active": false,
       "hold_days": 0
     },
@@ -1554,8 +1594,8 @@
       "hold_days": 0
     },
     "REGN": {
-      "active": true,
-      "hold_days": 1
+      "active": false,
+      "hold_days": 0
     },
     "RF": {
       "active": false,
@@ -1613,6 +1653,10 @@
       "active": false,
       "hold_days": 0
     },
+    "SHOP": {
+      "active": false,
+      "hold_days": 0
+    },
     "SHW": {
       "active": false,
       "hold_days": 0
@@ -1627,7 +1671,7 @@
     },
     "SMCI": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "SNA": {
       "active": false,
@@ -1635,11 +1679,11 @@
     },
     "SNDK": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "SNPS": {
-      "active": true,
-      "hold_days": 1
+      "active": false,
+      "hold_days": 0
     },
     "SO": {
       "active": false,
@@ -1674,8 +1718,8 @@
       "hold_days": 0
     },
     "STX": {
-      "active": true,
-      "hold_days": 1
+      "active": false,
+      "hold_days": 0
     },
     "STZ": {
       "active": false,
@@ -1721,13 +1765,17 @@
       "active": false,
       "hold_days": 0
     },
+    "TEAM": {
+      "active": false,
+      "hold_days": 0
+    },
     "TECH": {
       "active": false,
       "hold_days": 0
     },
     "TEL": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "TER": {
       "active": false,
@@ -1755,17 +1803,21 @@
     },
     "TMUS": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "TPL": {
       "active": true,
-      "hold_days": 2
+      "hold_days": 3
     },
     "TPR": {
       "active": false,
       "hold_days": 0
     },
     "TRGP": {
+      "active": false,
+      "hold_days": 0
+    },
+    "TRI": {
       "active": false,
       "hold_days": 0
     },
@@ -1799,7 +1851,7 @@
     },
     "TTD": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "TTWO": {
       "active": false,
@@ -1831,7 +1883,7 @@
     },
     "UHS": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "ULTA": {
       "active": false,
@@ -1891,7 +1943,7 @@
     },
     "VST": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "VTR": {
       "active": false,
@@ -1899,7 +1951,7 @@
     },
     "VTRS": {
       "active": true,
-      "hold_days": 1
+      "hold_days": 2
     },
     "VZ": {
       "active": false,
@@ -1922,8 +1974,8 @@
       "hold_days": 0
     },
     "WDC": {
-      "active": true,
-      "hold_days": 1
+      "active": false,
+      "hold_days": 0
     },
     "WEC": {
       "active": false,
@@ -1998,6 +2050,10 @@
       "hold_days": 0
     },
     "ZBRA": {
+      "active": false,
+      "hold_days": 0
+    },
+    "ZS": {
       "active": false,
       "hold_days": 0
     },
